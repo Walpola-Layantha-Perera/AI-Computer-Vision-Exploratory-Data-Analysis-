@@ -1,4 +1,5 @@
 Waymo Dataset Exploratory Data Analysis (EDA)
+-----------------------------------------------
 This repository contains a Jupyter Notebook to perform an Exploratory Data Analysis (EDA) on the Waymo Open Dataset. The analysis involves visualizing bounding boxes and class distributions within the dataset's images, providing insights into the data structure, class characteristics, and potential challenges for machine learning tasks.
 
 Table of Contents
